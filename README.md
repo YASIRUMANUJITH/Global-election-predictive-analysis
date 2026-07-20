@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project investigates whether the three largest electoral regions (based on 2026 registered elector counts) can reliably predict the final national election winner across multiple countries.
+This project investigates whether the three largest electoral regions (based on 2026 registered elector counts) can reliably predict the final national election winner across Developed and Developing Democracies.
 
 Rather than building a traditional machine learning prediction model, this project follows a research-driven data science methodology by combining:
 
@@ -13,7 +13,7 @@ Rather than building a traditional machine learning prediction model, this proje
 
 • Exploratory data analysis (EDA)
 
-cHypothesis testing
+• Hypothesis testing
 
 • Decision-oriented insights
 
@@ -92,8 +92,11 @@ Programming
 Libraries
 
 • Pandas
+
 • NumPy
+
 • SciPy
+
 • Matplotlib
 
 Visualization
