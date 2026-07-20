@@ -1,0 +1,58 @@
+Country,country_type,election_year,election_date,largest_electorate,largest_winner,second_electorate,second_winner,third_electorate,third_winner,national_winner
+United States,Developed,1964,11/3/1964,California,Lyndon B. Johnson,Texas,Lyndon B. Johnson,Florida,Lyndon B. Johnson,Lyndon B. Johnson
+United States,Developed,1968,11/5/1968,California,Richard Nixon,Texas,Richard Nixon,Florida,Lyndon B. Johnson,Richard Nixon
+United States,Developed,1972,11/7/1972,California,Richard Nixon,Texas,Richard Nixon,Florida,Richard Nixon,Richard Nixon
+United States,Developed,1976,11/2/1976,California,Jimmy Carter,Texas,Jimmy Carter,Florida,Jimmy Carter,Jimmy Carter
+United States,Developed,1980,11/4/1980,California,Ronald Reagan,Texas,Ronald Reagan,Florida,Ronald Reagan,Ronald Reagan
+United States,Developed,1984,11/6/1984,California,Ronald Reagan,Texas,Ronald Reagan,Florida,Ronald Reagan,Ronald Reagan
+United States,Developed,1988,11/8/1988,California,Michael Dukakis,Texas,George H. W. Bush,Florida,George H. W. Bush,George H. W. Bush
+United States,Developed,1992,11/3/1992,California,Bill Clinton,Texas,George H. W. Bush,Florida,Bill Clinton,Bill Clinton
+United States,Developed,1996,11/5/1996,California,Bill Clinton,Texas,Bob Dole,Florida,Bill Clinton,Bill Clinton
+United States,Developed,2000,11/7/2000,California,Al Gore,Texas,George W. Bush,Florida,George W. Bush,George W. Bush
+United States,Developed,2004,11/2/2004,California,John Kerry,Texas,George W. Bush,Florida,George W. Bush,George W. Bush
+United States,Developed,2008,11/4/2008,California,Barack Obama,Texas,John McCain,Florida,Barack Obama,Barack Obama
+United States,Developed,2012,11/6/2012,California,Barack Obama,Texas,Mitt Romney,Florida,Barack Obama,Barack Obama
+United States,Developed,2016,11/8/2016,California,Hillary Clinton,Texas,Donald Trump,Florida,Donald Trump,Donald Trump
+United States,Developed,2020,11/3/2020,California,Joe Biden,Texas,Donald Trump,Florida,Donald Trump,Joe Biden
+United States,Developed,2024,11/5/2024,California,Donald Trump,Texas,Donald Trump,Florida,Donald Trump,Donald Trump
+South Korea,Developed,1987,12/16/1987,Gyeonggi ,Roh Tae-woo,Seoul,Kim Young-sam,Busan,Roh Tae-woo,Roh Tae-woo
+South Korea,Developed,1992,12/18/1992,Gyeonggi,Kim Young-sam,Seoul,Kim Young-sam,Busan,Kim Young-sam,Kim Young-sam
+South Korea,Developed,1997,12/18/1997,Gyeonggi ,Kim Dae-jung,Seoul,Kim Dae-jung,Busan,Lee Hoi-chang,Kim Dae-jung
+South Korea,Developed,2002,12/19/2002,Gyeonggi ,Roh Moo-hyun,Seoul,Roh Moo-hyun,Busan,Lee Hoi-chang,Roh Moo-hyun
+South Korea,Developed,2007,12/19/2007,Gyeonggi ,Lee Myung-bak,Seoul,Lee Myung-bak,Busan,Lee Myung-bak,Lee Myung-bak
+South Korea,Developed,2012,12/19/2012,Gyeonggi ,Park Geun-hye,Seoul,Moon Jae-in,Busan,Park Geun-hye,Park Geun-hye
+South Korea,Developed,2017,5/9/2017,Gyeonggi ,Moon Jae-in,Seoul,Moon Jae-in,Busan,Hong Joon-pyo,Moon Jae-in
+South Korea,Developed,2022,3/9/2022,Gyeonggi ,Lee Jae-myung,Seoul,Lee Jae-myung,Busan,Yoon Suk Yeol,Yoon Suk Yeol
+Portugal,Developed,1976,6/25/1976,Lisboa,Ramalho Eanes,Porto,Ramalho Eanes,Set£bal,Otelo Saraiva de Carvalho,Ramalho Eanes
+Portugal,Developed,1980,12/7/1980,Lisboa,Ramalho Eanes,Porto,Ramalho Eanes,Set£bal,Ramalho Eanes,Ramalho Eanes
+Portugal,Developed,1986,1/26/1986,Lisboa,M rio Soares,Porto,M rio Soares,Set£bal,M rio Soares,M rio Soares
+Portugal,Developed,1991,1/13/1991,Lisboa,M rio Soares,Porto,M rio Soares,Set£bal,M rio Soares,M rio Soares
+Portugal,Developed,1996,1/14/1996,Lisboa,Jorge Sampaio,Porto,Jorge Sampaio,Set£bal,Jorge Sampaio,Jorge Sampaio
+Portugal,Developed,2001,1/14/2001,Lisboa,Jorge Sampaio,Porto,Jorge Sampaio,Set£bal,Jorge Sampaio,Jorge Sampaio
+Portugal,Developed,2006,1/22/2006,Lisboa,An¡bal Cavaco Silva,Porto,An¡bal Cavaco Silva,Set£bal,Manuel Alegre,An¡bal Cavaco Silva
+Portugal,Developed,2011,1/23/2011,Lisboa,An¡bal Cavaco Silva,Porto,An¡bal Cavaco Silva,Set£bal,Francisco Lopes,An¡bal Cavaco Silva
+Portugal,Developed,2016,1/24/2016,Lisboa,Marcelo Rebelo de Sousa,Porto,Marcelo Rebelo de Sousa,Set£bal,Marcelo Rebelo de Sousa,Marcelo Rebelo de Sousa
+Portugal,Developed,2021,1/24/2021,Lisboa,Marcelo Rebelo de Sousa,Porto,Marcelo Rebelo de Sousa,Set£bal,Marcelo Rebelo de Sousa,Marcelo Rebelo de Sousa
+Sri Lanka,Developing,1982,10/20/1982,Homagama, J.R. Jayawardene,Kaduwela, J.R. Jayawardene,Kesbewa, H.S.R.B. Kobbekaduwa, J.R. Jayawardene
+Sri Lanka,Developing,1988,12/19/1988,Homagama,Sirimavo Bandaranaike,Kaduwela,Sirimavo Bandaranaike,Kesbewa,Sirimavo Bandaranaike,Ranasinghe Premadasa
+Sri Lanka,Developing,1994,11/9/1994,Homagama,Chandrika Kumaratunga,Kaduwela,Chandrika Kumaratunga,Kesbewa,Chandrika Kumaratunga,Chandrika Kumaratunga
+Sri Lanka,Developing,1999,12/21/1999,Homagama,Chandrika Kumaratunga,Kaduwela,Chandrika Kumaratunga,Kesbewa,Chandrika Kumaratunga,Chandrika Kumaratunga
+Sri Lanka,Developing,2005,11/17/2005,Homagama,Mahinda Rajapaksa,Kaduwela,Mahinda Rajapaksa,Kesbewa,Mahinda Rajapaksa,Mahinda Rajapaksa
+Sri Lanka,Developing,2010,1/26/2010,Homagama,Mahinda Rajapaksa,Kaduwela,Mahinda Rajapaksa,Kesbewa,Mahinda Rajapaksa,Mahinda Rajapaksa
+Sri Lanka,Developing,2015,1/8/2015,Homagama,Mahinda Rajapaksa,Kaduwela,Mahinda Rajapaksa,Kesbewa,Mahinda Rajapaksa,Maithripala Sirisena
+Sri Lanka,Developing,2019,11/16/2019,Homagama,Gotabaya Rajapaksa,Kaduwela,Gotabaya Rajapaksa,Kesbewa,Gotabaya Rajapaksa,Gotabaya Rajapaksa
+Sri Lanka,Developing,2024,9/21/2024,Homagama,Anura Kumara Dissanayake,Kaduwela,Anura Kumara Dissanayake,Kesbewa,Anura Kumara Dissanayake,Anura Kumara Dissanayake
+Indonesia,Developing,2004,9/20/2004,West Java,Susilo Bambang Yudhoyono,East Java,Susilo Bambang Yudhoyono,Central Java,Megawati Soekarnoputri,Susilo Bambang Yudhoyono
+Indonesia,Developing,2009,7/8/2009,West Java,Susilo Bambang Yudhoyono,East Java,Susilo Bambang Yudhoyono,Central Java,Susilo Bambang Yudhoyono,Susilo Bambang Yudhoyono
+Indonesia,Developing,2014,7/9/2014,West Java,Prabowo Subianto,East Java,Prabowo Subianto,Central Java,Joko Widodo,Joko Widodo
+Indonesia,Developing,2019,4/17/2019,West Java,Prabowo Subianto,East Java,Joko Widodo,Central Java,Joko Widodo,Joko Widodo
+Indonesia,Developing,2024,2/14/2024,West Java,Prabowo Subianto,East Java,Prabowo Subianto,Central Java,Prabowo Subianto,Prabowo Subianto
+Brazil,Developing,1989,11/15/1989,SÆo Paulo,Fernando Collor,Minas Gerais,Fernando Collor,Rio de Janeiro,Fernando Collor,Fernando Collor
+Brazil,Developing,1994,10/3/1994,SÆo Paulo,Fernando Henrique Cardoso,Minas Gerais,Fernando Henrique Cardoso,Rio de Janeiro,Fernando Henrique Cardoso,Fernando Henrique Cardoso
+Brazil,Developing,1998,10/4/1998,SÆo Paulo,Fernando Henrique Cardoso,Minas Gerais,Fernando Henrique Cardoso,Rio de Janeiro,Fernando Henrique Cardoso,Fernando Henrique Cardoso
+Brazil,Developing,2002,10/27/2002,SÆo Paulo,Jos‚ Serra,Minas Gerais,Lula,Rio de Janeiro,Lula,Lula
+Brazil,Developing,2006,10/29/2006,SÆo Paulo,Geraldo Alckmin,Minas Gerais,Lula,Rio de Janeiro,Lula,Lula
+Brazil,Developing,2010,10/31/2010,SÆo Paulo,Jos‚ Serra,Minas Gerais,Dilma Rousseff,Rio de Janeiro,Dilma Rousseff,Dilma Rousseff
+Brazil,Developing,2014,10/26/2014,SÆo Paulo,A‚cio Neves,Minas Gerais,Dilma Rousseff,Rio de Janeiro,Dilma Rousseff,Dilma Rousseff
+Brazil,Developing,2018,10/28/2018,SÆo Paulo,Jair Bolsonaro,Minas Gerais,Jair Bolsonaro,Rio de Janeiro,Jair Bolsonaro,Jair Bolsonaro
+Brazil,Developing,2022,10/30/2022,SÆo Paulo,Jair Bolsonaro,Minas Gerais,Lula,Rio de Janeiro,Jair Bolsonaro,Lula
