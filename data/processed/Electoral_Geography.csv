@@ -1,0 +1,172 @@
+Country,country_type,election_year,Region,Region_rank,national_winner,latitude,longitude,signal_rank_category
+Brazil,Developing,1989,SÆo Paulo,1,Fernando Collor,,,Largest Electoral Signal
+Brazil,Developing,1989,Minas Gerais,2,Fernando Collor,-19.9167,-43.9345,Second Electoral Signal
+Brazil,Developing,1989,Rio de Janeiro,3,Fernando Collor,-22.9068,-43.1729,Third Electoral Signal
+Brazil,Developing,1994,SÆo Paulo,1,Fernando Henrique Cardoso,,,Largest Electoral Signal
+Brazil,Developing,1994,Minas Gerais,2,Fernando Henrique Cardoso,-19.9167,-43.9345,Second Electoral Signal
+Brazil,Developing,1994,Rio de Janeiro,3,Fernando Henrique Cardoso,-22.9068,-43.1729,Third Electoral Signal
+Brazil,Developing,1998,SÆo Paulo,1,Fernando Henrique Cardoso,,,Largest Electoral Signal
+Brazil,Developing,1998,Minas Gerais,2,Fernando Henrique Cardoso,-19.9167,-43.9345,Second Electoral Signal
+Brazil,Developing,1998,Rio de Janeiro,3,Fernando Henrique Cardoso,-22.9068,-43.1729,Third Electoral Signal
+Brazil,Developing,2002,SÆo Paulo,1,Lula,,,Largest Electoral Signal
+Brazil,Developing,2002,Minas Gerais,2,Lula,-19.9167,-43.9345,Second Electoral Signal
+Brazil,Developing,2002,Rio de Janeiro,3,Lula,-22.9068,-43.1729,Third Electoral Signal
+Brazil,Developing,2006,SÆo Paulo,1,Lula,,,Largest Electoral Signal
+Brazil,Developing,2006,Minas Gerais,2,Lula,-19.9167,-43.9345,Second Electoral Signal
+Brazil,Developing,2006,Rio de Janeiro,3,Lula,-22.9068,-43.1729,Third Electoral Signal
+Brazil,Developing,2010,SÆo Paulo,1,Dilma Rousseff,,,Largest Electoral Signal
+Brazil,Developing,2010,Minas Gerais,2,Dilma Rousseff,-19.9167,-43.9345,Second Electoral Signal
+Brazil,Developing,2010,Rio de Janeiro,3,Dilma Rousseff,-22.9068,-43.1729,Third Electoral Signal
+Brazil,Developing,2014,SÆo Paulo,1,Dilma Rousseff,,,Largest Electoral Signal
+Brazil,Developing,2014,Minas Gerais,2,Dilma Rousseff,-19.9167,-43.9345,Second Electoral Signal
+Brazil,Developing,2014,Rio de Janeiro,3,Dilma Rousseff,-22.9068,-43.1729,Third Electoral Signal
+Brazil,Developing,2018,SÆo Paulo,1,Jair Bolsonaro,,,Largest Electoral Signal
+Brazil,Developing,2018,Minas Gerais,2,Jair Bolsonaro,-19.9167,-43.9345,Second Electoral Signal
+Brazil,Developing,2018,Rio de Janeiro,3,Jair Bolsonaro,-22.9068,-43.1729,Third Electoral Signal
+Brazil,Developing,2022,SÆo Paulo,1,Lula,,,Largest Electoral Signal
+Brazil,Developing,2022,Minas Gerais,2,Lula,-19.9167,-43.9345,Second Electoral Signal
+Brazil,Developing,2022,Rio de Janeiro,3,Lula,-22.9068,-43.1729,Third Electoral Signal
+Indonesia,Developing,2004,West Java,1,Susilo Bambang Yudhoyono,-6.9175,107.6191,Largest Electoral Signal
+Indonesia,Developing,2004,East Java,2,Susilo Bambang Yudhoyono,-7.2504,112.7688,Second Electoral Signal
+Indonesia,Developing,2004,Central Java,3,Susilo Bambang Yudhoyono,-7.15,110.1403,Third Electoral Signal
+Indonesia,Developing,2009,West Java,1,Susilo Bambang Yudhoyono,-6.9175,107.6191,Largest Electoral Signal
+Indonesia,Developing,2009,East Java,2,Susilo Bambang Yudhoyono,-7.2504,112.7688,Second Electoral Signal
+Indonesia,Developing,2009,Central Java,3,Susilo Bambang Yudhoyono,-7.15,110.1403,Third Electoral Signal
+Indonesia,Developing,2014,West Java,1,Joko Widodo,-6.9175,107.6191,Largest Electoral Signal
+Indonesia,Developing,2014,East Java,2,Joko Widodo,-7.2504,112.7688,Second Electoral Signal
+Indonesia,Developing,2014,Central Java,3,Joko Widodo,-7.15,110.1403,Third Electoral Signal
+Indonesia,Developing,2019,West Java,1,Joko Widodo,-6.9175,107.6191,Largest Electoral Signal
+Indonesia,Developing,2019,East Java,2,Joko Widodo,-7.2504,112.7688,Second Electoral Signal
+Indonesia,Developing,2019,Central Java,3,Joko Widodo,-7.15,110.1403,Third Electoral Signal
+Indonesia,Developing,2024,West Java,1,Prabowo Subianto,-6.9175,107.6191,Largest Electoral Signal
+Indonesia,Developing,2024,East Java,2,Prabowo Subianto,-7.2504,112.7688,Second Electoral Signal
+Indonesia,Developing,2024,Central Java,3,Prabowo Subianto,-7.15,110.1403,Third Electoral Signal
+Portugal,Developed,1976,Lisboa,1,Ramalho Eanes,38.7223,-9.1393,Largest Electoral Signal
+Portugal,Developed,1976,Porto,2,Ramalho Eanes,41.1579,-8.6291,Second Electoral Signal
+Portugal,Developed,1976,Set£bal,3,Ramalho Eanes,,,Third Electoral Signal
+Portugal,Developed,1980,Lisboa,1,Ramalho Eanes,38.7223,-9.1393,Largest Electoral Signal
+Portugal,Developed,1980,Porto,2,Ramalho Eanes,41.1579,-8.6291,Second Electoral Signal
+Portugal,Developed,1980,Set£bal,3,Ramalho Eanes,,,Third Electoral Signal
+Portugal,Developed,1986,Lisboa,1,M rio Soares,38.7223,-9.1393,Largest Electoral Signal
+Portugal,Developed,1986,Porto,2,M rio Soares,41.1579,-8.6291,Second Electoral Signal
+Portugal,Developed,1986,Set£bal,3,M rio Soares,,,Third Electoral Signal
+Portugal,Developed,1991,Lisboa,1,M rio Soares,38.7223,-9.1393,Largest Electoral Signal
+Portugal,Developed,1991,Porto,2,M rio Soares,41.1579,-8.6291,Second Electoral Signal
+Portugal,Developed,1991,Set£bal,3,M rio Soares,,,Third Electoral Signal
+Portugal,Developed,1996,Lisboa,1,Jorge Sampaio,38.7223,-9.1393,Largest Electoral Signal
+Portugal,Developed,1996,Porto,2,Jorge Sampaio,41.1579,-8.6291,Second Electoral Signal
+Portugal,Developed,1996,Set£bal,3,Jorge Sampaio,,,Third Electoral Signal
+Portugal,Developed,2001,Lisboa,1,Jorge Sampaio,38.7223,-9.1393,Largest Electoral Signal
+Portugal,Developed,2001,Porto,2,Jorge Sampaio,41.1579,-8.6291,Second Electoral Signal
+Portugal,Developed,2001,Set£bal,3,Jorge Sampaio,,,Third Electoral Signal
+Portugal,Developed,2006,Lisboa,1,An¡bal Cavaco Silva,38.7223,-9.1393,Largest Electoral Signal
+Portugal,Developed,2006,Porto,2,An¡bal Cavaco Silva,41.1579,-8.6291,Second Electoral Signal
+Portugal,Developed,2006,Set£bal,3,An¡bal Cavaco Silva,,,Third Electoral Signal
+Portugal,Developed,2011,Lisboa,1,An¡bal Cavaco Silva,38.7223,-9.1393,Largest Electoral Signal
+Portugal,Developed,2011,Porto,2,An¡bal Cavaco Silva,41.1579,-8.6291,Second Electoral Signal
+Portugal,Developed,2011,Set£bal,3,An¡bal Cavaco Silva,,,Third Electoral Signal
+Portugal,Developed,2016,Lisboa,1,Marcelo Rebelo de Sousa,38.7223,-9.1393,Largest Electoral Signal
+Portugal,Developed,2016,Porto,2,Marcelo Rebelo de Sousa,41.1579,-8.6291,Second Electoral Signal
+Portugal,Developed,2016,Set£bal,3,Marcelo Rebelo de Sousa,,,Third Electoral Signal
+Portugal,Developed,2021,Lisboa,1,Marcelo Rebelo de Sousa,38.7223,-9.1393,Largest Electoral Signal
+Portugal,Developed,2021,Porto,2,Marcelo Rebelo de Sousa,41.1579,-8.6291,Second Electoral Signal
+Portugal,Developed,2021,Set£bal,3,Marcelo Rebelo de Sousa,,,Third Electoral Signal
+South Korea,Developed,1987,Gyeonggi ,1,Roh Tae-woo,,,Largest Electoral Signal
+South Korea,Developed,1987,Seoul,2,Roh Tae-woo,37.5665,126.978,Second Electoral Signal
+South Korea,Developed,1987,Busan,3,Roh Tae-woo,35.1796,129.0756,Third Electoral Signal
+South Korea,Developed,1992,Gyeonggi,1,Kim Young-sam,37.4138,127.5183,Largest Electoral Signal
+South Korea,Developed,1992,Seoul,2,Kim Young-sam,37.5665,126.978,Second Electoral Signal
+South Korea,Developed,1992,Busan,3,Kim Young-sam,35.1796,129.0756,Third Electoral Signal
+South Korea,Developed,1997,Gyeonggi ,1,Kim Dae-jung,,,Largest Electoral Signal
+South Korea,Developed,1997,Seoul,2,Kim Dae-jung,37.5665,126.978,Second Electoral Signal
+South Korea,Developed,1997,Busan,3,Kim Dae-jung,35.1796,129.0756,Third Electoral Signal
+South Korea,Developed,2002,Gyeonggi ,1,Roh Moo-hyun,,,Largest Electoral Signal
+South Korea,Developed,2002,Seoul,2,Roh Moo-hyun,37.5665,126.978,Second Electoral Signal
+South Korea,Developed,2002,Busan,3,Roh Moo-hyun,35.1796,129.0756,Third Electoral Signal
+South Korea,Developed,2007,Gyeonggi ,1,Lee Myung-bak,,,Largest Electoral Signal
+South Korea,Developed,2007,Seoul,2,Lee Myung-bak,37.5665,126.978,Second Electoral Signal
+South Korea,Developed,2007,Busan,3,Lee Myung-bak,35.1796,129.0756,Third Electoral Signal
+South Korea,Developed,2012,Gyeonggi ,1,Park Geun-hye,,,Largest Electoral Signal
+South Korea,Developed,2012,Seoul,2,Park Geun-hye,37.5665,126.978,Second Electoral Signal
+South Korea,Developed,2012,Busan,3,Park Geun-hye,35.1796,129.0756,Third Electoral Signal
+South Korea,Developed,2017,Gyeonggi ,1,Moon Jae-in,,,Largest Electoral Signal
+South Korea,Developed,2017,Seoul,2,Moon Jae-in,37.5665,126.978,Second Electoral Signal
+South Korea,Developed,2017,Busan,3,Moon Jae-in,35.1796,129.0756,Third Electoral Signal
+South Korea,Developed,2022,Gyeonggi ,1,Yoon Suk Yeol,,,Largest Electoral Signal
+South Korea,Developed,2022,Seoul,2,Yoon Suk Yeol,37.5665,126.978,Second Electoral Signal
+South Korea,Developed,2022,Busan,3,Yoon Suk Yeol,35.1796,129.0756,Third Electoral Signal
+Sri Lanka,Developing,1982,Homagama,1, J.R. Jayawardene,6.8447,80.003,Largest Electoral Signal
+Sri Lanka,Developing,1982,Kaduwela,2, J.R. Jayawardene,6.9344,79.9847,Second Electoral Signal
+Sri Lanka,Developing,1982,Kesbewa,3, J.R. Jayawardene,6.8014,79.922,Third Electoral Signal
+Sri Lanka,Developing,1988,Homagama,1,Ranasinghe Premadasa,6.8447,80.003,Largest Electoral Signal
+Sri Lanka,Developing,1988,Kaduwela,2,Ranasinghe Premadasa,6.9344,79.9847,Second Electoral Signal
+Sri Lanka,Developing,1988,Kesbewa,3,Ranasinghe Premadasa,6.8014,79.922,Third Electoral Signal
+Sri Lanka,Developing,1994,Homagama,1,Chandrika Kumaratunga,6.8447,80.003,Largest Electoral Signal
+Sri Lanka,Developing,1994,Kaduwela,2,Chandrika Kumaratunga,6.9344,79.9847,Second Electoral Signal
+Sri Lanka,Developing,1994,Kesbewa,3,Chandrika Kumaratunga,6.8014,79.922,Third Electoral Signal
+Sri Lanka,Developing,1999,Homagama,1,Chandrika Kumaratunga,6.8447,80.003,Largest Electoral Signal
+Sri Lanka,Developing,1999,Kaduwela,2,Chandrika Kumaratunga,6.9344,79.9847,Second Electoral Signal
+Sri Lanka,Developing,1999,Kesbewa,3,Chandrika Kumaratunga,6.8014,79.922,Third Electoral Signal
+Sri Lanka,Developing,2005,Homagama,1,Mahinda Rajapaksa,6.8447,80.003,Largest Electoral Signal
+Sri Lanka,Developing,2005,Kaduwela,2,Mahinda Rajapaksa,6.9344,79.9847,Second Electoral Signal
+Sri Lanka,Developing,2005,Kesbewa,3,Mahinda Rajapaksa,6.8014,79.922,Third Electoral Signal
+Sri Lanka,Developing,2010,Homagama,1,Mahinda Rajapaksa,6.8447,80.003,Largest Electoral Signal
+Sri Lanka,Developing,2010,Kaduwela,2,Mahinda Rajapaksa,6.9344,79.9847,Second Electoral Signal
+Sri Lanka,Developing,2010,Kesbewa,3,Mahinda Rajapaksa,6.8014,79.922,Third Electoral Signal
+Sri Lanka,Developing,2015,Homagama,1,Maithripala Sirisena,6.8447,80.003,Largest Electoral Signal
+Sri Lanka,Developing,2015,Kaduwela,2,Maithripala Sirisena,6.9344,79.9847,Second Electoral Signal
+Sri Lanka,Developing,2015,Kesbewa,3,Maithripala Sirisena,6.8014,79.922,Third Electoral Signal
+Sri Lanka,Developing,2019,Homagama,1,Gotabaya Rajapaksa,6.8447,80.003,Largest Electoral Signal
+Sri Lanka,Developing,2019,Kaduwela,2,Gotabaya Rajapaksa,6.9344,79.9847,Second Electoral Signal
+Sri Lanka,Developing,2019,Kesbewa,3,Gotabaya Rajapaksa,6.8014,79.922,Third Electoral Signal
+Sri Lanka,Developing,2024,Homagama,1,Anura Kumara Dissanayake,6.8447,80.003,Largest Electoral Signal
+Sri Lanka,Developing,2024,Kaduwela,2,Anura Kumara Dissanayake,6.9344,79.9847,Second Electoral Signal
+Sri Lanka,Developing,2024,Kesbewa,3,Anura Kumara Dissanayake,6.8014,79.922,Third Electoral Signal
+United States,Developed,1964,California,1,Lyndon B. Johnson,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,1964,Texas,2,Lyndon B. Johnson,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,1964,Florida,3,Lyndon B. Johnson,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,1968,California,1,Richard Nixon,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,1968,Texas,2,Richard Nixon,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,1968,Florida,3,Richard Nixon,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,1972,California,1,Richard Nixon,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,1972,Texas,2,Richard Nixon,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,1972,Florida,3,Richard Nixon,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,1976,California,1,Jimmy Carter,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,1976,Texas,2,Jimmy Carter,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,1976,Florida,3,Jimmy Carter,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,1980,California,1,Ronald Reagan,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,1980,Texas,2,Ronald Reagan,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,1980,Florida,3,Ronald Reagan,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,1984,California,1,Ronald Reagan,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,1984,Texas,2,Ronald Reagan,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,1984,Florida,3,Ronald Reagan,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,1988,California,1,George H. W. Bush,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,1988,Texas,2,George H. W. Bush,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,1988,Florida,3,George H. W. Bush,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,1992,California,1,Bill Clinton,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,1992,Texas,2,Bill Clinton,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,1992,Florida,3,Bill Clinton,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,1996,California,1,Bill Clinton,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,1996,Texas,2,Bill Clinton,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,1996,Florida,3,Bill Clinton,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,2000,California,1,George W. Bush,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,2000,Texas,2,George W. Bush,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,2000,Florida,3,George W. Bush,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,2004,California,1,George W. Bush,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,2004,Texas,2,George W. Bush,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,2004,Florida,3,George W. Bush,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,2008,California,1,Barack Obama,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,2008,Texas,2,Barack Obama,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,2008,Florida,3,Barack Obama,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,2012,California,1,Barack Obama,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,2012,Texas,2,Barack Obama,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,2012,Florida,3,Barack Obama,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,2016,California,1,Donald Trump,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,2016,Texas,2,Donald Trump,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,2016,Florida,3,Donald Trump,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,2020,California,1,Joe Biden,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,2020,Texas,2,Joe Biden,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,2020,Florida,3,Joe Biden,27.6648,-81.5158,Third Electoral Signal
+United States,Developed,2024,California,1,Donald Trump,36.7783,-119.4179,Largest Electoral Signal
+United States,Developed,2024,Texas,2,Donald Trump,31.9686,-99.9018,Second Electoral Signal
+United States,Developed,2024,Florida,3,Donald Trump,27.6648,-81.5158,Third Electoral Signal
